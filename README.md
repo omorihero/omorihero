@@ -1,3 +1,5 @@
 <p align="center">
   <img src="https://charmingsgraphics.carrd.co/assets/images/image32.gif?v=ec297a70" width="250"><br>
-$\color{#534197}{\text{links wip}}$
+<a href="https://fluffle.cc/heroomori">
+  <img src="https://charmingsgraphics.carrd.co/assets/images/image35.gif?v=ff3f1645" width="75">
+</a>
