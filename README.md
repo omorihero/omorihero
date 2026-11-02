@@ -9,3 +9,10 @@
 <a href="https://heroomori.atabook.org/">
   <img src="https://charmingsgraphics.carrd.co/assets/images/image37.gif?v=a9c80ed4" height="150">
 </a>
+<div align="center">
+  ***
+<details>
+<summary>my prized possession</summary>
+<img src="https://pbs.twimg.com/media/HWFnTfnaIAAj4Sm?format=jpg" width="500">
+</details>
+</div>
