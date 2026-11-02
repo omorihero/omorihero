@@ -10,11 +10,11 @@
   <img src="https://charmingsgraphics.carrd.co/assets/images/image37.gif?v=a9c80ed4" height="150">
 </a>
 <div align="center">
-
+<hr>
 <details>
-<summary>my prized possession</summary>
-  
-<img src="https://pbs.twimg.com/media/HWFnTfnaIAAj4Sm?format=jpg" width="500">
+<summary><sub>my prized possession</sub></summary>
+<br>
+<img src="https://pbs.twimg.com/media/HWFnTfnaIAAj4Sm?format=jpg" width="250">
 
 </details>
 </div>
